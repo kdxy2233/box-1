@@ -5,7 +5,7 @@
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/proxygr.json",
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/zh/%E8%A7%82%E5%BD%B1TV/proxygr.json",
 "title": "GHPROXY个人版线路",
 "time": "2022-08-26 02:00:00"
 },
