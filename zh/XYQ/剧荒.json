@@ -1,6 +1,6 @@
 {
     "title": "剧荒TV",
-    "author": "Smj.Love.C",
+    "author": "张弘",
     "UserAgent":"",
     "firstpage": "1",
     "class_url": "https://juhuang.tv/type/{cateId}_type_fypage.html[firstPage=https://juhuang.tv/type/{cateId}_type.html]",
