@@ -1,6 +1,6 @@
 [
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json",
+"url": "https://raw.fastgit.org/smjxf/box/main/zh/%E8%A7%82%E5%BD%B1TV/gfgr.json",
 "title": "FASTGIT个人版线路",
 "time": "2022-08-26 02:00:00"
 },
@@ -10,7 +10,7 @@
 "time": "2022-08-26 02:00:00"
 },
 {
-"url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/7edgr.json",
+"url": "https://raw.githubusercontents.com/smjxf/box/main/zh/%E8%A7%82%E5%BD%B1TV/7edgr.json",
 "title": "7ED个人版线路",
 "time": "2022-08-26 02:00:00"
 },
