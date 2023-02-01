@@ -5,11 +5,7 @@
 "spider":"https://box.smjc.cc/box/ygbh/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
 
 
-
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ib3guc21qYy5jYy9ib3gveWdiaC96Qi96Qi50eHQ="]}]}],
 
 "sites":[
    {
