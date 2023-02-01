@@ -5,6 +5,8 @@
 
 开源仓库
 
+https://jihulab.com/
+
 https://github.com/
 
 https://gitlab.com/
