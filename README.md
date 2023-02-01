@@ -1,4 +1,4 @@
-多仓 https://box.smjc.cc/box/ck.json
+多仓 https://box.smjc.cc/box/dc.json
 
 单仓 https://box.smjc.cc/box/tvbox.json
 
@@ -30,34 +30,34 @@ https://epg.112114.xyz/pp.xml
 
 Github RAW 加速服务
 
-源码 https://gitcdn.top/https://raw.githubusercontent.com/smjxf/box/main/ck.json
+源码 https://gitcdn.top/https://raw.githubusercontent.com/smjxf/box/main/dc.json
 
-香港 https://raw.iqiq.io/smjxf/box/main/ck.json
+香港 https://raw.iqiq.io/smjxf/box/main/dc.json
 
-新加坡 https://raw.kgithub.com/smjxf/box/main/ck.json
+新加坡 https://raw.kgithub.com/smjxf/box/main/dc.json
 
 日本
 
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://fastly.jsdelivr.net/gh/smjxf/box@main/dc.json
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+https://cdn.staticaly.com/gh//smjxf/box/main/dc.json
 
-https://raw.fastgit.org/liu673cn/box/main/m.json
+https://raw.fastgit.org/smjxf/box/main/dc.json
 
 韩国
 
-https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/ck.json
+https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/dc.json
 
-https://gcore.jsdelivr.net/gh/smjxf/box@main/ck.json
+https://gcore.jsdelivr.net/gh/smjxf/box@main/dc.json
 
-https://raw.githubusercontents.com/smjxf/box/main/ck.json
+https://raw.githubusercontents.com/smjxf/box/main/dc.json
 
 
 Github 静态加速
 
-https://cdn.staticaly.com/gh/smjxf/box/main/ck.json
+https://cdn.staticaly.com/gh/smjxf/box/main/dc.json
 
-https://cdn.jsdelivr.net/gh/smjxf/box@main/ck.json
+https://cdn.jsdelivr.net/gh/smjxf/box@main/dc.json
 
 
 给英文不好的朋友
