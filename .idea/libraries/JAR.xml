@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/box285.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/2925.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/925.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/2915.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/2212.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/box281.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/0820.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/0907.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/2909.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/box271.jar!/" />
+      <root url="jar://$PROJECT_DIR$/llb/sub/jar/0831.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

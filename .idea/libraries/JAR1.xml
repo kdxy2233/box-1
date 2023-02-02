@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/duo/jar/duos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/qj1122.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/jun97.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/czjar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/zb1205.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/cs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/qj1121.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/duo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/plus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/sou.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/ali.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/aduo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/czzy1123.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/tang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/ali.zip!/" />
+      <root url="jar://$PROJECT_DIR$/duo/jar/ayt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

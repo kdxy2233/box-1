@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zh/JS/fm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
