@@ -6,6 +6,16 @@
 "sites":[
 
 {
+    "key": "py_libvio",
+    "name": "🍲libvio(PY)",
+    "type": 3,
+    "api": "py_libvio",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "./plugin/pylibvio.py"
+},
+{
 "key":"py_kuaikan",
 "name":"快看〔PY〕",
 "type":3,

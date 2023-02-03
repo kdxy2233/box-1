@@ -16,7 +16,6 @@
 
 {"key":"csp_appysv2_APP影视","name":"↓APP影视↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
 
-
 {"key":"快播资源","name":"快播资源〔APP〕","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_萌蛋蛋〔APP〕","name":"萌蛋蛋〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_群鑫影视〔APP〕","name":"群鑫影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
@@ -77,7 +76,7 @@
 
 { "name" : "荣兴", "type" : 1, "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" },
 
-{ "name" : "懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
+//{ "name" : "懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
 
 { "name" : "懒懒2", "type" : 1, "url" : "http://lanlan.ckflv.cn/?url=", "ext" : { "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"] } },
 
