@@ -6,11 +6,11 @@
    
     "sites":[
 
-        {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"},
+        {"key":"Gitcafe","name":"💖Smj.Love.C💖📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://box.smjc.cc/box/dc/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"},
 
     {"key":"csp_Paper","name":"💖Smj.Love.C💖小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
 
-    {"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://box.smjc.cc/box/zh/xBPQ/Alist1.json"},
+    {"key":"csp_Alist1","name":"💖Smj.Love.C💖网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"https://box.smjc.cc/box/zh/xBPQ/Alist1.json"},
     
 
     //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
@@ -23,15 +23,15 @@
     
     //{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"}
     
-    {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
+    {"key":"PanSou","name":"💖Smj.Love.C💖盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
     
-    {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
+    {"key":"YiSo","name":"💖Smj.Love.C💖易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
     
-    {"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
+    {"key":"UpYun","name":"💖Smj.Love.C💖Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
     
-    {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
+    {"key":"Zhaozy","name":"💖Smj.Love.C💖找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
     
-    {"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://box.smjc.cc/box/zh/JS/lib/token.txt","jar":"https://box.smjc.cc/box/zh/JAR/cs.jar"},
+    {"key":"push_agent","name":"💖Smj.Love.C💖推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://box.smjc.cc/box/zh/JS/lib/token.txt","jar":"https://box.smjc.cc/box/zh/JAR/cs.jar"},
 
     {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1}
     
