@@ -6,7 +6,7 @@
    
     "sites":[
 
-        {"key":"Gitcafe","name":"💖Smj.Love.C💖📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://box.smjc.cc/box/dc/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"},
+    {"key":"Gitcafe","name":"💖Smj.Love.C💖📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://box.smjc.cc/box/dc/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"},
 
     {"key":"csp_Paper","name":"💖Smj.Love.C💖小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://box.smjc.cc/box/zh/JS/lib/token.txt"},
 
