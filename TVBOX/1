@@ -9,15 +9,15 @@
 "name": "agit个人线路"
 },
 {
-"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+"url": "https://raw.iqiq.io/smjxf/box/main/TVBOX/iqiqgr.json",
 "name": "IQIQ个人线路"
 },
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/TVBOX/gfgr.json",
+"url": "https://raw.fastgit.org/smjxf/box/main/TVBOX/gfgr.json",
 "name": "FASTGIT个人线路"
 },
 {
-"url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxygr.json",
+"url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/TVBOX/proxygr.json",
 "name": "GHPROXY个人线路"
 },
 {

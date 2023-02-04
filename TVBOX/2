@@ -9,15 +9,15 @@
 "name": "agit家庭版线路"
 },
 {
-"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/gfjt.json",
+"url": "https://raw.iqiq.io/smjxf/box/main/TVBOX/gfjt.json",
 "name": "IQIQ家庭版线路"
 },
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/TVBOX/gfjt.json",
+"url": "https://raw.fastgit.org/smjxf/box/main/TVBOX/gfjt.json",
 "name": "FASTGIT家庭版线路"
 },
 {
-"url":"https://ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TVBOX/proxyjt.json",
+"url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/TVBOX/proxyjt.json",
 "name": "GHPROXY家庭版线路"
 },
 {
@@ -202,7 +202,7 @@
 ],
 "vip": [
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/TVBOX/gfgr.json",
+"url": "https://raw.fastgit.org/smjxf/box/main/TVBOX/gfgr.json",
 "name": "FASTGIT个人线路"
 },
 {
