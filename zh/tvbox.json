@@ -8,24 +8,12 @@
 
 "sites":[
 
+  //{"key":"T4_douban","name":"","name":"💖Smj.Love.C💖 影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-
-//{"key":"T4_douban","name":"","name":"💖Smj.Love.C💖 影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-
-{
-    "key": "py_libvio",
-    "name": "libvio(PY)",
-    "type": 3,
-    "api": "py_libvio",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "./plugin/pylibvio.py"
-},
 
 {"key":"csp_TutuYs","name":"图图影视〔SP〕","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566","jar":"./JAR/qj231121.jar"},
 
@@ -567,52 +555,52 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
 {
-    "name": "💖Smj.Love.C💖1号线",
+    "name": "1号线",
     "type": 1,
     "url": "https://jx.ccabc.cc/?url="
   },	
   {
-    "name": "💖Smj.Love.C💖2号线",
+    "name": "2号线",
     "type": 1,
     "url": "https://jx.bozrc.com:4433/player/?url="
   },	
   {
-    "name": "💖Smj.Love.C💖3号线",
+    "name": "3号线",
     "type": 1,
     "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
   },
   {
-    "name": "💖Smj.Love.C💖4号线",
+    "name": "4号线",
     "type": 1,
     "url": "https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url="
   },
   {
-    "name": "💖Smj.Love.C💖5号线",
+    "name": "5号线",
     "type": 1,
     "url": "https://json.xn--9kq078cdn3a.cc/api/?key=SH4g4ZgkJeEXXby78r&url="
   },
   {
-    "name": "💖Smj.Love.C💖6号线",
+    "name": "6号线",
     "type": 1,
     "url": "https://okjx.cc/?url="
   },
   {
-    "name": "💖Smj.Love.C💖7号线",
+    "name": "7号线",
     "type": 1,
     "url": "http://jx.ivito.cn/?url="
   },
   {
-    "name": "💖Smj.Love.C💖8号线",
+    "name": "8号线",
     "type": 1,
     "url": "https://dm.xbqgx.com/?url="
   },
   {
-    "name": "💖Smj.Love.C💖9号线",
+    "name": "9号线",
     "type": 1,
     "url": "https://vip.bljiex.com/?v="
   },
   {
-    "name": "💖Smj.Love.C💖10号线",
+    "name": "10号线",
     "type": 1,
     "url": "http://pandown.pro/app/ysmjx.php?url=",
     "ext": {
@@ -665,7 +653,7 @@
     }
   },
   {
-    "name": "💖Smj.Love.C💖13号线",
+    "name": "13号线",
     "type": 1,
     "url": "https://jx.bozrc.com:4433/player/?url=",
     "ext": {
@@ -699,12 +687,12 @@
     }
   },
   {
-    "name": "💖Smj.Love.C💖14号线",
+    "name": "14号线",
     "type": 1,
     "url": "http://45.248.10.163:4433/json.php?wap=0&url="
   },
   {
-    "name": "💖Smj.Love.C💖15号线",
+    "name": "15号线",
     "type": 1,
     "url": "http://newjiexi.gotka.top/keyu3.php?url=",
     "ext": {
