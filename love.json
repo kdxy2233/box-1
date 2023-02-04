@@ -5,31 +5,35 @@
     "urls":[
     //{"url":"","name":"请点击下方线路观看"},
     {
-    "url":"https://box.smjc.cc/box/zh/tvbox.json",
+    "url":"https://box.smjc.cc/box/tvbox.json",
     "name":"💖Smj.Love.C💖 线路1️⃣"
     },
     {
-    "url":"https://box.smjc.cc/box/llb/m.json",
+    "url":"https://raw.iqiq.io/smjxf/box/main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路2️⃣"
     },
     {
-    "url":"https://box.smjc.cc/box/ygbh/PRO.json",
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路3️⃣"
     },
     {
-    "url":"https://box.smjc.cc/box/dc/wp.json",
+    "url":"https://fastly.jsdelivr.net/gh/smjxf/box@main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路4️⃣"
     },
     {
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/zh/tvbox.json",
-    "name":"💖Smj.Love.C💖 线路6️⃣"
+    "url":"https://cdn.staticaly.com/gh/smjxf/box@main/tvbox.json",
+    "name":"💖Smj.Love.C💖 线路5️⃣"
     },
     {
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/llb/m.json",
+    "url":"https://gcore.jsdelivr.net/gh/smjxf/box@main/tvbox.json",
+    "name":"💖Smj.Love.C💖 线路6️⃣"
+        },
+    {
+    "url":"https://raw.fastgit.org/smjxf/box/main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路7️⃣"
     },
     {
-     "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/ygbh/PRO.json",
+     "url":"https://cdn.jsdelivr.net/gh/smjxf/box@main/tvbox.json",
     "name":"💖Smj.Love.C💖线路 8️⃣"
     }
     ],
