@@ -1,6 +1,6 @@
 {"spider":"./JS/fm.jar",
  "sites":[
-{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 豆瓣[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 {"key":"bili","name":"Bili[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/我的哔哩.js"},
 {"key":"AList","name":"Alist[jar]","type":3,"api":"csp_AList","ext":"./JS/js/alistjar.json"},
