@@ -1,0 +1,42 @@
+//仅自用
+//此多仓接口列表全部网络搜集整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+    "urls":[
+    //{"url":"","name":"请点击下方线路观看"},
+    {
+    "url":"https://box.smjc.cc/box/zh/tvbox.json",
+    "name":"💖Smj.Love.C💖 线路1️⃣"
+    },
+    {
+    "url":"https://box.smjc.cc/box/llb/m.json",
+    "name":"💖Smj.Love.C💖 线路2️⃣"
+    },
+    {
+    "url":"https://box.smjc.cc/box/ygbh/PRO.json",
+    "name":"💖Smj.Love.C💖 线路3️⃣"
+    },
+    {
+    "url":"https://box.smjc.cc/box/dc/wp.json",
+    "name":"💖Smj.Love.C💖 线路4️⃣"
+    },
+    {
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/zh/tvbox.json",
+    "name":"💖Smj.Love.C💖 线路6️⃣"
+    },
+    {
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/llb/m.json",
+    "name":"💖Smj.Love.C💖 线路7️⃣"
+    },
+    {
+     "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/ygbh/PRO.json",
+    "name":"💖Smj.Love.C💖线路 8️⃣"
+    }
+    ],
+    "vip": [
+    {
+    "url": "",
+    "name": ""
+    }
+    ]
+    }
