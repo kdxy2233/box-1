@@ -1,6 +1,6 @@
 {"spider":"./JS/fm.jar",
  "sites":[
-{"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 豆瓣[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 {"key":"bili","name":"Bili[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/我的哔哩.js"},
 {"key":"AList","name":"Alist[jar]","type":3,"api":"csp_AList","ext":"./JS/js/alistjar.json"},
@@ -158,14 +158,10 @@
 {"key":"drpy_js_追剧达人","name":"追剧达人[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"追剧啦儿[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"子子影视[js]","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/子子影视.js"},
-{"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/猫了个咪.js"},
-{"key":"drpy_js_吸瓜","name":"吸瓜[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/吸瓜.js"},
-{"key":"drpy_js_黄瓜TV","name":"黄瓜TV[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/黄瓜TV.js"},
-{"key":"drpy_js_banan","name":"banan[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/banan.js"},
-{"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18av.js"},
+
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","ext": "./JS/lib/token.txt"}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
-//"lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/mtv/zhibo.txt"}],
+
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
